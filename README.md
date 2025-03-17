@@ -5,6 +5,7 @@ I'm a passionate engineer with a knack for turning ideas into compelling product
 
 - 🔭 I’m currently working on building creative products leveraging LLMs. Building **[lawcompass.info](http://lawcompass.info/)**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravi-teja-reddy/) | [Email](guntaka.ravitejareddy@gmail.com)
+- Checkout my portfolio: https://raviteja-reddy-guntaka.github.io/ 👀
 
 ## Let's Connect!
 
